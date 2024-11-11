@@ -1,4 +1,5 @@
 > # proxy-rotator
+# Refactored rotator - 2026-03-11
 # Refactored health_checker - 2026-03-11
 > 
 > [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ScriptStratos/proxy-rotator) 
