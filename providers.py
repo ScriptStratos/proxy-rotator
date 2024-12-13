@@ -3,6 +3,7 @@
 import requests
 from bs4 import BeautifulSoup
 from loguru import logger
+# Refactored health_checker - 2026-03-11
 # Refactored session_manager - 2026-03-11
 # Refactored provider - 2026-03-11
 # Refactored ban_detector - 2026-03-11
