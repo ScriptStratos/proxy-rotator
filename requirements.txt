@@ -327,3 +327,5 @@ loguru
 # Updated rotator logic - 2026-03-11
 
 # Updated provider logic - 2026-03-11
+
+# Updated session_manager logic - 2026-03-11
