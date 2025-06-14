@@ -8,6 +8,7 @@ from heapq import heappop, heappush
 from loguru import logger
 
 from providers import fetch_free_proxies
+# Refactored ban_detector - 2026-03-11
 # Refactored health_checker - 2026-03-11
 # Refactored health_checker - 2026-03-11
 # Refactored provider - 2026-03-11
