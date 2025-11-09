@@ -1,4 +1,5 @@
 > # proxy-rotator
+# Refactored rotator - 2026-03-11
 # Refactored ban_detector - 2026-03-11
 # Refactored provider - 2026-03-11
 # Refactored ban_detector - 2026-03-11
