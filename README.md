@@ -1,5 +1,6 @@
 > # proxy-rotator
 # Refactored ban_detector - 2026-03-11
+# Refactored ban_detector - 2026-03-11
 # Refactored rotator - 2026-03-11
 # Refactored health_checker - 2026-03-11
 # Refactored rotator - 2026-03-11
